@@ -1,5 +1,5 @@
 # reproducibility
-Work space for the reproducibility working group for BONSAI hackathon2019
+Work space for the reproducibility working group for BONSAI [hackathon2019](https://github.com/BONSAMURAIS/hackathon-2019)
 
 ## Group members
 
