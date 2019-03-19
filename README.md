@@ -7,6 +7,11 @@ Work space for the reproducibility working group for BONSAI [hackathon2019](http
  * [Miguel Astudillo](https://github.com/mfastudillo)
  * [Carlos Gaete](https://github.com/cdgaete)
  * [Massimo Pizzol](https://github.com/massimopizzol)
+ * [Tom Millross](https://github.com/tmillross) (observing member)
+
+## Task Management
+
+Please review repo [issues](https://github.com/BONSAMURAIS/reproducibility/issues) for currently open tasks.
 
 ## Defining goals and objectives
 
