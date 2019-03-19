@@ -31,6 +31,9 @@ These can be grouped into "before", "during", and "stretch" goals.
 
 We need to have a set of loose guidelines to the other groups about what their data products will look like.
 
+A useful paper: [Ten simple rules for reproducible computational research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
+
+
 ### During the hackathon
 
 Follow the progress of the other groups and ensure that their works in progress meet our transparency and reproducibility standards.  By the end of the week, we should have operable standards that demonstrate the reproduciblity of data products.
@@ -41,4 +44,8 @@ Follow the progress of the other groups and ensure that their works in progress 
  - Independent replication of one or more results
 
 
+
+## Meeting Notes and other bits of info
+
+* Hasty [notes](notes/repro-kickoff-20190318.txt) from the kickoff call 2019-03-18
 

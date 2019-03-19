@@ -1,0 +1,140 @@
+==========
+Mon Mar 18 08:58:14 -0700 2019
+
+Tom
+following my work 
+sw devel background
+gave up; chose ind ecol
+CML
+following lca-tools
+
+Carlos
+transportation system
+batteries
+power stations
+integ. of renewables
+LCA power systems
+optimization model
+python
+
+Tasks
+--
+--
+
+Chris:
+- incomplete set of guidelines
+- hard to turn generals into specifics
+  = especially if we move away from "LCI datasets" to something that is more complex
+  = no need of perfect answer right now
+  = comments + review
+
+Deliverables:
+
+ * Before hackathon
+
+   - "loose guidelines" for how groups should express their inputs + outputs + methods
+   - daily objectives for github repo mgmt
+
+
+ * During
+
+   - keep tabs on groups' repo activity
+
+ * After
+
+
+
+We do have cmplex models used to build databases e.g. ecoinvent
+ - complex model for clinker production
+ - refinery operation
+ = nobody ahs seen thhe model but it is there
+ - landfilling
+
+commissioned by 1 person
+/
+jungbluth
+doka
+
+ecoinvent asked for input
+
+nobody published anything
+
+strong unique personalities ==> unique value choices in thhe way models are built
+
+we don't want ppl to be surprised
+complex without complicated
+
+PSI group on "future cars" can produce LCI
+/airplanes
+/motorcycles
+
+make available + used
+
+something that we also struggle with
+try different things + build a collective knowledge base
+don't be prescriptive
+
+report failures + problems
+
+future cars: in jupyter notebooks
+- physics model
+- driving cycle
+- train the model
+- real world data
+- db of production cars: engine size, drag coef, rolling friction
+= guesses for material compositions
+--> excel sheet with a set of db inventories
+*unit processes*
+nomenclature in ecoinvent
+
+correspondence tables: translation from nomenclature to database reference can be done automatically
+
+describe how they fit together without prescribing how they work
+
+# working groups
+
+ - PRe - Rutger - his job is to come up with a better spec for the SimaPro csv format
+
+ - ontology + vocabulary - lists for products, lists for industry;
+   * lists for units is contentious
+   iterate on wk saying "can we come up with a fundamental ontology"---------
+   activity, product, AGENT <- actor responsible for that product
+   biggest, most active
+   before the hackathon: come up with the first model
+
+ - sw devel group: skeleton for how to build a python library where I get Unit test/ doco/ CI etc built in
+
+ - reproducibility
+
+ - bentso -- using ENTSO/E electricity network operator
+   provides historical data--> now hourly from everyone in EU
+   3 years is the most we can reliably say
+
+   misses uncertainty
+   misses interaction effects
+
+
+EXIOBASE - foundation database -> will be converted into the ontology
+"changing their product names to our product names"
+standard industry names
+ISIC codes don't distinguish between
+
+WIOD - CH based - all economists and lawyers
+many fewer flows
+
+smaller deliverables - e.g. one person team
+
+different models, some simple, some more complex
+
+Carlos
+ - testing -- python --- what is the object
+ - also in bentso- can understand how to use the API
+
+Tom
+ - https://mybinder.org
+ - connecting our ideas specific to LCA to the wider repro-of-science tools
+ - reluctant to take tasks before start
+ - during is ok
+
+Chris
+ = list of tasks - pick one
