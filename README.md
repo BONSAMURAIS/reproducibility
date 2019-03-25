@@ -9,6 +9,10 @@ Work space for the reproducibility working group for BONSAI [hackathon2019](http
  * [Massimo Pizzol](https://github.com/massimopizzol)
  * [Tom Millross](https://github.com/tmillross) (observing member)
 
+# Guide for Hackathon Participants
+
+Please refer to [our working groups page](working-groups.md)
+
 ## Task Management
 
 Please review repo [issues](https://github.com/BONSAMURAIS/reproducibility/issues) for currently open tasks.
@@ -36,12 +40,13 @@ These can be grouped into "before", "during", and "stretch" goals.
 
 We need to have a set of loose guidelines to the other groups about what their data products will look like.
 
-A useful paper: [Ten simple rules for reproducible computational research](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285)
-
 
 ### During the hackathon
 
 Follow the progress of the other groups and ensure that their works in progress meet our transparency and reproducibility standards.  By the end of the week, we should have operable standards that demonstrate the reproduciblity of data products.
+
+See [Hackathon working groups](working-groups.md).
+
 
 ### Stretch goals
 
